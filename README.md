@@ -25,4 +25,4 @@ Hola a todos! 👋 Soy Estefania. <br>
 </p>
 
 
-⭐️ From [@estefarepetti](https://github.com/estefaniarepetti)
+⭐️ From [@estefaniarepetti](https://github.com/estefaniarepetti)
